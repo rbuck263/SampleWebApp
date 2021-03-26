@@ -12,4 +12,8 @@ namespace SampleWebApp
 
         public string Summary { get; set; }
     }
+    public class name
+    {
+        public name Name { get; set; }
+    }
 }
